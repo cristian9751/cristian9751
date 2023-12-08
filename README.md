@@ -1,4 +1,4 @@
-# Bienvenido/a a mi perfil 👋
+# Bienvenido 👋
 
 ¡Hola! Soy Cristian, un estudiante apasionado de DAM (Desarrollo de Aplicaciones Multiplataforma) en el centro IES Serpis. Actualmente, mi enfoque en el curso se centra en el estudio de Sistemas Informáticos, Java, y bases de datos tanto en MySQL como en MariaDB.
 
