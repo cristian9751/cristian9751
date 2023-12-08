@@ -19,13 +19,12 @@ Además de mis estudios formales, me encanta aprender por mi cuenta. He explorad
 
 Mi interés se extiende más allá de la programación. Me fascina la administración de sistemas y redes, aunque aún estoy explorando y aprendiendo en estos campos.
 
-## Lenguajes y Bases de Datos que Manejo 🖥️
+## Lenguajes y Tecnologias Manejo 🖥️
 
 
 - **Java** ☕
 - **JavaScript** 🌐
 - **Kotlin** 🚀
-- **Flutter** 📱
 - **C#** 	#️⃣
 - **SQL (MySQL, MariaDB)** 🗃️
 - **MongoDB** 📊
