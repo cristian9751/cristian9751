@@ -28,6 +28,8 @@ Mi interés se extiende más allá de la programación. Me fascina la administra
 - **C#** 	#️⃣
 - **SQL (MySQL, MariaDB)** 🗃️
 - **MongoDB** 📊
+- Flutter
+
 
 ¡Gracias por visitar mi perfil! Siempre estoy en busca de nuevas oportunidades para aprender y crecer en el fascinante mundo de la tecnología. ¡Conéctate conmigo para compartir conocimientos y experiencias! 👨‍💻
 
@@ -55,6 +57,7 @@ Languages and Technologies I Handle 🖥️
     C# #️⃣
     SQL (MySQL, MariaDB) 🗃️
     MongoDB 📊
+    Flutter
 
 Thank you for visiting my profile! I am always looking for new opportunities to learn and grow in the fascinating world of technology. Connect with me to share knowledge and experiences! 👨‍💻
 
