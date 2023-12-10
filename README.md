@@ -30,3 +30,31 @@ Mi interés se extiende más allá de la programación. Me fascina la administra
 - **MongoDB** 📊
 
 ¡Gracias por visitar mi perfil! Siempre estoy en busca de nuevas oportunidades para aprender y crecer en el fascinante mundo de la tecnología. ¡Conéctate conmigo para compartir conocimientos y experiencias! 👨‍💻
+
+Areas of Study 📚
+
+    Development of Native Applications: I am immersed in the world of native application development for Android using Kotlin and Jetpack.
+
+    Business Management: I explore systems dedicated to business management, and one of my points of interest is Odoo.
+
+Self-Learning 🚀
+
+In addition to my formal studies, I love learning on my own. I have explored various online platforms, courses, and YouTube to expand my knowledge. Some of the topics I am tackling include:
+
+    Programming Languages: JavaScript 🌐, Kotlin, NodeJs, React, and more.
+    Databases: SQL (MySQL, MariaDB), MongoDB 📊
+
+Additional Interests 💡
+
+My interest extends beyond programming. I am fascinated by system and network administration, although I am still exploring and learning in these fields.
+Languages and Technologies I Handle 🖥️
+
+    Java ☕
+    JavaScript 🌐
+    Kotlin 🚀
+    C# #️⃣
+    SQL (MySQL, MariaDB) 🗃️
+    MongoDB 📊
+
+Thank you for visiting my profile! I am always looking for new opportunities to learn and grow in the fascinating world of technology. Connect with me to share knowledge and experiences! 👨‍💻
+
